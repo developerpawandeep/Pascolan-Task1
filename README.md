@@ -3,7 +3,7 @@
 Task 1: Given dataset below of Politics and Movies, 
 classify and prepare a model which can classify and assign the appropriate category to that Question.
 
-Example:Input: क्यामोदीसरकारभारतकीसंवैधािनकसंस्थाओंकोठे सपहुंचानेकीकोिशशकररहीहै?
+Example:Input: क्या मोदी सरकार भारत की संवैधािनक संस्थाओं को ठेस पहुंचाने की कोिशश कर रही है?
 
 Output : Politics (Also mention confidence score)  
 
